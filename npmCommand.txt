@@ -1,0 +1,12 @@
+npm init -y 
+: 각 승인 없이 바로 초기화
+
+npm install <package> (npm i <package>)
+: 라이브러리 설치
+
+npm install <package> --global (npm i -g <package>) 
+: 라이브러리 전역 설치
+
+npm uninstall <package>
+: 라이브러리 삭제
+
